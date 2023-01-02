@@ -1,0 +1,15 @@
+{
+  "name": "sketches",
+  "version": "1.0.0",
+  "description": "This document is a part of a making visuals course and in this particlar document we are working with sketches from the repository of Matt DesLauriers [https://github.com/mattdesl/canvas-sketch](https://github.com/mattdesl/canvas-sketch).",
+  "main": "sketch-01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas-sketch": "^0.7.6"
+  }
+}

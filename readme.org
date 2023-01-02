@@ -1,0 +1,10 @@
+# Setup sketches environment
+
+https://github.com/mattdesl/canvas-sketch
+
+#+BEGIN_SRC shell
+  npm install canvas-sketch -g
+  mkdir sketches
+  cd sketches
+  canvas-sketch sketch.js --new
+#+END_SRC
